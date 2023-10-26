@@ -1,0 +1,56 @@
+.navbar li:hover
+{
+    height:40px;
+    background-color:#0d6efd;
+    border-radius:10px;
+}
+.navbar li link:hover
+{
+    color:pink;
+}
+.card-body:hover
+{
+    background-color:#0d6efd;
+    color:white;
+}
+.about:hover{
+    background-color:#0d6efd;
+    color:white;
+}
+.a1:hover
+{
+    color:#0d6efd;
+}
+.a2:hover
+{
+    color:#0d6efd;
+}
+.a3:hover
+{
+    color:#0d6efd;
+}
+.a4:hover
+{
+    color:#0d6efd;
+}
+.a5:hover
+{
+    color:#0d6efd;
+}
+.img2
+{
+    transition: ease 2s;
+}
+.img2:hover
+{
+    transform: scale(.9);
+}
+.imgdata{
+    background-image:url(./img/img.jpg);
+}
+.imgslid{
+    background-image:url(./img/slide/slide-2.jpg);
+}
+.imglogin{
+    background-image:url(./img/ac.jpeg);
+}

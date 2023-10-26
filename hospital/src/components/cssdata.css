@@ -1,0 +1,51 @@
+.navbar li:hover
+{
+    height:40px;
+    background-color:#215fdc;
+    border-radius:10px;
+}
+.nb{
+    background-color: rgb(171, 219, 224);
+}
+.sticky-top{
+        position: sticky;
+        top:0;
+        width:100%;
+}
+.Link:hover
+{
+    color:white;
+}
+.card-body:hover
+{
+    background-color:#0665f2;
+    color:white;
+}
+.a1:hover
+{
+    color:#0d6efd;
+}
+.a2:hover
+{
+    color:#0d6efd;
+}
+.a3:hover
+{
+    color:#0d6efd;
+}
+.a4:hover
+{
+    color:#0d6efd;
+}
+.a5:hover
+{
+    color:#0d6efd;
+}
+.img2
+{
+    transition: ease 2s;
+}
+.img2:hover
+{
+    transform: scale(.9);
+}
